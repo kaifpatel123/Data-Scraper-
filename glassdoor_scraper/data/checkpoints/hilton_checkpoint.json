@@ -1,0 +1,13 @@
+{
+  "company_key": "hilton",
+  "last_page": 5,
+  "total_scraped": 0,
+  "timestamp": "2026-09-13 04:55:05",
+  "failed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

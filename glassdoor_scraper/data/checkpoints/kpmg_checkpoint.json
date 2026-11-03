@@ -1,0 +1,13 @@
+{
+  "company_key": "kpmg",
+  "last_page": 15,
+  "total_scraped": 50,
+  "timestamp": "2026-09-13 05:12:33",
+  "failed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

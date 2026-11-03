@@ -1,0 +1,270 @@
+[
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792281,
+    "httpOnly": false,
+    "name": "rl_user_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "RS_ENC_v3_IjM1NTIxMTY2MyI%3D"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792281,
+    "httpOnly": false,
+    "name": "rl_page_init_referring_domain",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "RS_ENC_v3_Ind3dy5nbGFzc2Rvb3IuY29tIg%3D%3D"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1789277853,
+    "httpOnly": true,
+    "name": "gdsid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1789256254449:1789256254449:FC106CFAE70E6F237306DE3520D37775"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "httpOnly": true,
+    "name": "_cfuvid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1kaMubWB8SWR.lbiM0WxKOgXjDtTQZwE9iTGjPtShV8-1789256268.9107347-1.0.1.1-eWw1QNNKr.muaDHAD8ejkz4JgrySmVsDXYNSJA73ddg"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1820792285,
+    "httpOnly": false,
+    "name": "_dd_s",
+    "path": "/",
+    "sameSite": "Strict",
+    "secure": false,
+    "value": "aid=6cbc5842-ca9e-490f-bd99-09bdbcc9792b&rum=0&expire=1789257185689"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792287,
+    "httpOnly": false,
+    "name": "rl_session",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "RS_ENC_v3_eyJhdXRvVHJhY2siOnRydWUsInRpbWVvdXQiOjE4MDAwMDAsImV4cGlyZXNBdCI6MTc4OTI1ODA4NzM2NCwiaWQiOjE3ODkyNTYyNTQxNzQsInNlc3Npb25TdGFydCI6ZmFsc2V9"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1789258082,
+    "httpOnly": false,
+    "name": "rsSessionId",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1789256254174"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1820813863,
+    "httpOnly": true,
+    "name": "at",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "eyJhbGciOiJSUzI1NiJ9.eyJhdHQiOiJpb2EiLCJ1aWQiOjM1NTIxMTY2MywidSI6ImthaWZfcGF0ZWwuc2lhczI0QGtyZWEuYWMuaW4iLCJpdWlkIjoiMTg3NTFlNTJiZTM4OTAwNyIsInJmc2giOjE3ODkyNTY4NjQyNzIsInJtYl9pYXQiOjE3ODkyNTYyNjQxOTMsInJtYl9leHAiOjE4MjA3OTIyNjQxOTMsImp0aSI6ImI2Y2IzOWYzLWE0YWItNDcyMi1iZWViLTU2ZWFiZDg3MjdkOSIsImF1dGhvcml0aWVzIjpbNDUsNDcsMjhdfQ.hGA4ZjhFu_Pe7nL80_Z60KauhAzdET8c6xXWxqIt4ZFjqZMFKsBr4GuRU5ai0-qaT6NodQP3fWJjwp3xXy5qnmxGdbPl4shND92sLEeO8I9bqf23iUqZQ9upc1MqowuSZb0hAXkjP08Kgbz2HLCdqGBZhr6IpjnFj8CgZPcVTHP1RuO673H9yxA-33aBaOyQKQUN6zwBXHSKkhhwBPJJDpGi54nPwxaA3xbl8XgwustDTDS-gyMYrJedHi9nONFhxu7UQK3Z_W8SuegdZpJu5SDDL11blrYyMgetyHH-5ANq5Tq0k38Vx6QGFvihErSQ6QEGIebIEB6mEW2VNkQHFw"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1789258082,
+    "httpOnly": false,
+    "name": "rsReferrerData",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%7B%22currentPageRollup%22%3A%22%2Fjob%2Findex%22%2C%22previousPageRollup%22%3A%22%2Fjob%2Findex%22%2C%22currentPageAbstract%22%3A%22%2FJob%2Findex.htm%22%2C%22previousPageAbstract%22%3A%22%2FJob%2Findex.htm%22%2C%22currentPageFull%22%3A%22https%3A%2F%2Fwww.glassdoor.co.in%2FJob%2Findex.htm%22%2C%22previousPageFull%22%3A%22https%3A%2F%2Fwww.glassdoor.co.in%2FJob%2Findex.htm%22%7D"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1823816282,
+    "httpOnly": false,
+    "name": "_optionalConsent",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "true"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792265,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "Vg_XyInWdZ8VcQoBG5oYZUahPwKCYdyx9Jwnx3B6Gko-1789256266-1.2.1.1-qnSSGiLxbEA3idfKAk4sSrsIPC7tmb6BNU8i_nY71pBXj4FrLYlm5sXaa6wSDxfhlKRN_7_mGOHKsyf5U81.YTVU8CVCi4Xv.IpBka1LKGNP.evy0jzU9In2ALRcxaFsUtnsgw8eI6GF2kn8oEcYrHQRU.FjUROxj.FfwzV34LioWCrAjjHCQPFfiBJ862y82uBUZO0OPnRZx2ZMEQ08K0XEAoGgsUW_W9yDM2ikxIFV6s.JMqx8zb85ic1fSoELlqrKFrccr7EV_U032yBWa2au1lyJmBMHDziDHYVWKBlobaSQWT_nemBwZI_EB8JNZlicyi4UFoPv2YWXzOPZxyXDeER.uc5ucKCV1Gq1KEhM93mMRLqUoPqnIz9sRqtyPbcrZ7dtv0Ce8b_S8Nu5YIQ5D2govr6e6EehoiaLaL4ZYt8Z8r7R36isy9tF3xkqIN8P0Q4dVZY0RsDTPs54AF3tzwkeZXmLHGB.111AlsLcGIYq2UflGQswXL2Bw0EkG8cjaSp5s.agpF43w40N1Q"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792282,
+    "httpOnly": false,
+    "name": "OptanonConsent",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "isGpcEnabled=0&datestamp=Sun+Sep+13+2026+05%3A08%3A02+GMT%2B0530+(India+Standard+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf10fc03-90cf-43ed-b403-d2f2f6b78861&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0017%3A1&AwaitingReconsent=false"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1823816283,
+    "httpOnly": false,
+    "name": "ki_t",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1789256268556%3B1789256268556%3B1789256283019%3B1%3B2"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792281,
+    "httpOnly": false,
+    "name": "rl_anonymous_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "RS_ENC_v3_IjAzMjQ4OGRhLTYzMTMtNDA3Zi04OTA3LWZmZDE5N2E5MjE3YSI%3D"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "httpOnly": true,
+    "name": "AFSID",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "NTlhMjJhZjItNDQzYS00MmUxLTgzOWUtYWMzMjAwOGRhOGVk"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1823816253,
+    "httpOnly": true,
+    "name": "rttdf",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "true"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1823816253,
+    "httpOnly": false,
+    "name": "gdId",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "032488da-6313-407f-8907-ffd197a9217a"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792281,
+    "httpOnly": false,
+    "name": "rl_page_init_referrer",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "RS_ENC_v3_Imh0dHBzOi8vd3d3LmdsYXNzZG9vci5jb20vIg%3D%3D"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1789258082,
+    "httpOnly": false,
+    "name": "cdArr",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": ""
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1789258083,
+    "httpOnly": false,
+    "name": "asst",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1789256254.0"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1789258065,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "8DuO8TVcEBCZHp8Hliq_wuGiSRdlreBbiH78j0K46dg-1789256266.5603235-1.0.1.1-4nqcoC_miltFgIlKuxJA0RKl1ZkL8ROIRYhSoxxeJFJewM6ZRS.7NY_l7TsSDFxaPUe5FZ9iLmOWZCawQP0VGLObiU8zbXhzGRq.1wP0a5c0bs_3Xn79mDYZqTPB6Mfj"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792282,
+    "httpOnly": false,
+    "name": "otGeoUS",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "false"
+  },
+  {
+    "domain": ".glassdoor.co.in",
+    "expiry": 1820792281,
+    "httpOnly": false,
+    "name": "rl_trait",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "RS_ENC_v3_eyJsb2NrZWQgc3RhdGUiOiJvcGVuIiwidXNlciByb2xlIjoiQkFTSUMiLCJjb2xvciBzY2hlbWUiOiJEYXJrIiwiaXMgdmFsaWRhdGVkIjp0cnVlLCJpcyBjb250cmlidXRvciI6dHJ1ZX0%3D"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1823816283,
+    "httpOnly": false,
+    "name": "ki_r",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": ""
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1823816281,
+    "httpOnly": false,
+    "name": "indeedCtk",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1k2bvobe2gefi800"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1804808260,
+    "httpOnly": false,
+    "name": "g_state",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "{\"i_l\":0,\"i_ll\":1789256255000,\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1789256255000}"
+  },
+  {
+    "domain": "www.glassdoor.co.in",
+    "expiry": 1823816268,
+    "httpOnly": false,
+    "name": "ki_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "240461%3A0.0.0.0.0"
+  }
+]

@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.*
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+.next/
+
+# System files
+.DS_Store
